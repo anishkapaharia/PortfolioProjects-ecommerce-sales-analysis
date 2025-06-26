@@ -65,6 +65,16 @@ Two dashboards summarize these analyses for easier business consumption:
 
 ---
 
+## Dashboard Screenshots
+
+### Sales Overview Dashboard
+![Sales Overview](images/sales_overview_dashboard.png)
+
+### Product & Customer Insights Dashboard
+![Product & Customer Insights](images/product_customer_insights_dashboard.png)
+
+---
+
 ## How to Use This Project
 
 1. Open `EcommerceProject.ipynb` for step-by-step data exploration.
